@@ -6,11 +6,14 @@ In this project, I tested the [WitMotion WTGAHRS2 10 Axis GPS Navigation Positio
 2. Setup and Configuration with Raspberry Pi 4
 3. Setup and Configuration with NVIDIA Jetson Nano
 4. Setup and Configuration with Arduino UNO R3
+5. Setup and Configuration using Android App
 
-## Setup and Configuration with Laptop (Windows 10)
+## 1. Setup and Configuration with Laptop (Windows 10)
 
-## Setup and Configuration with Raspberry Pi 4
+## 2. Setup and Configuration with Raspberry Pi 4
 
-## Setup and Configuration with NVIDIA Jetson Nano
+## 3. Setup and Configuration with NVIDIA Jetson Nano
 
-## Setup and Configuration with Arduino UNO R3
+## 4. Setup and Configuration with Arduino UNO R3
+
+## 5. Setup and Configuration using Android App
