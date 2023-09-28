@@ -1,6 +1,8 @@
 # Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor
 
-In this project, I tested the [WitMotion WTGAHRS2 10 Axis GPS Navigation Position Speed Tracker Sensor Accelerometer + Gyro + Angle + Magnetometer + Barometer](https://www.wit-motion.com/inertial-navigation/witmotion-wtgahrs2-10-axis-gps.html) with 4 platforms: -
+![5fc5cd09af6c8](https://github.com/SamiUddin-tech/Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor/assets/81253183/3b9c7bcc-3e92-4a5c-b358-657739dfdbb9)
+
+In this project, I tested the [WitMotion WTGAHRS2 10 Axis GPS Navigation Position Speed Tracker Sensor Accelerometer + Gyro + Angle + Magnetometer + Barometer](https://www.wit-motion.com/inertial-navigation/witmotion-wtgahrs2-10-axis-gps.html) with 5 platforms: -
 
 1. Setup and Configuration with Laptop (Windows 10)
 2. Setup and Configuration with Raspberry Pi 4
