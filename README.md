@@ -8,7 +8,7 @@ In this project, I configured the [WitMotion WTGAHRS2 10 Axis GPS Navigation Pos
 To start with WTGAHRS2 GPS Sensor download the **WTGAHRS2** folder from [here](https://drive.google.com/drive/folders/1-ABAdZinHVIOFj4EbG0BjiA4Sj5-1Zlq)
 
 ## Installation
-After downloading the WTGAHRS2.zip file., extract it in your PC. You will see the following files in the folder:
+After downloading the *WTGAHRS2.zip* file., extract it in your PC. You will see the following files in the folder:
 
 ![image](https://github.com/SamiUddin-tech/Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor/assets/81253183/717ff5e2-165c-433d-bd49-accc98bfaf13)
 
@@ -16,8 +16,15 @@ Open the folder **Software drivers**, extract the following folders as shown in 
 
 ![image](https://github.com/SamiUddin-tech/Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor/assets/81253183/ef413445-6bd8-4b06-9a75-99da9f41d8a4)
 
-Navigate to 
+Navigate to following folder and install **CP210xVCPInstaller_x64**
 
-![image](https://github.com/SamiUddin-tech/Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor/assets/81253183/d220581f-377d-49b2-b2a8-ed25077b41e7)
+![image](https://github.com/SamiUddin-tech/Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor/assets/81253183/e3e41081-3f02-484a-9609-bf9f6b6e59f0)
 
-## 
+
+
+
+
+
+
+
+
