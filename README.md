@@ -4,4 +4,14 @@
 
 In this project, I configured the [WitMotion WTGAHRS2 10 Axis GPS Navigation Position Speed Tracker Sensor Accelerometer + Gyro + Angle + Magnetometer + Barometer](https://www.wit-motion.com/inertial-navigation/witmotion-wtgahrs2-10-axis-gps.html).
 
-## Step 1. Setting up WIT Motion Sensors and Software (Windows 10)
+## Download the essentials
+To start with WTGAHRS2 GPS Sensor download the **WTGAHRS2** folder from [here](https://drive.google.com/drive/folders/1-ABAdZinHVIOFj4EbG0BjiA4Sj5-1Zlq)
+
+## Installation
+After downloading the WTGAHRS2.zip file., extract it in your PC. You will see the following files in the folder: -
+![image](https://github.com/SamiUddin-tech/Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor/assets/81253183/717ff5e2-165c-433d-bd49-accc98bfaf13)
+
+
+
+
+## 
