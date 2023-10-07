@@ -20,6 +20,15 @@ Navigate to following folder and install **CP210xVCPInstaller_x64**
 
 ![image](https://github.com/SamiUddin-tech/Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor/assets/81253183/e3e41081-3f02-484a-9609-bf9f6b6e59f0)
 
+Click **Next**
+
+![image](https://github.com/SamiUddin-tech/Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor/assets/81253183/6893090a-7751-4f9c-9834-4ab7e122d120)
+
+then Click **Finish**
+
+![image](https://github.com/SamiUddin-tech/Configuration-and-Testing-of-WitMotion-WTGAHRS2-10-Axis-GPS-Navigation-Position-Speed-Tracker-Sensor/assets/81253183/2018b228-b2fb-4c82-adce-130a9f2898ac)
+
+
 
 
 
